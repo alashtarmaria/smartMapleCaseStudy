@@ -2,3 +2,11 @@
 [2025-05-12 11:13:40,483] [INFO] Added job "scrape_and_store" to job store "default"
 [2025-05-12 11:13:40,484] [INFO] Scheduler started
 [2025-05-12 11:13:40,486] [INFO] 🔄 Scheduler başlatıldı: 2 saatte bir scraper çalışacak.
+[2025-05-12 13:13:40,493] [INFO] Running job "scrape_and_store (trigger: interval[2:00:00], next run at: 2025-05-12 15:13:40 UTC)" (scheduled at 2025-05-12 13:13:40.481581+00:00)
+[2025-05-12 13:13:40,501] [INFO] Scraper çalışıyor...
+[2025-05-12 13:44:37,068] [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=5)")': /reverse?lat=33.66638804&lon=-114.20937375&format=json&addressdetails=1
+[2025-05-12 13:54:40,080] [INFO] Veritabanina basarili sekilde yazildi.
+[2025-05-12 13:54:40,085] [INFO] Scraper tamamlandi.
+[2025-05-12 13:54:40,086] [INFO] craper sure: 2459.58 saniye
+[2025-05-12 13:54:40,087] [INFO] Job "scrape_and_store (trigger: interval[2:00:00], next run at: 2025-05-12 15:13:40 UTC)" executed successfully
+

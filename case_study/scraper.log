@@ -1,0 +1,4 @@
+[2025-05-12 11:13:40,481] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2025-05-12 11:13:40,483] [INFO] Added job "scrape_and_store" to job store "default"
+[2025-05-12 11:13:40,484] [INFO] Scheduler started
+[2025-05-12 11:13:40,486] [INFO] 🔄 Scheduler başlatıldı: 2 saatte bir scraper çalışacak.

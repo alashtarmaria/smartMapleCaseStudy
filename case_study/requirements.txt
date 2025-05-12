@@ -1,0 +1,11 @@
+pydantic~=2.10
+requests
+psycopg2-binary
+apscheduler
+tenacity
+geopy
+fastapi>=0.95.0
+uvicorn[standard]>=0.23.0
+sqlalchemy~=2.0
+
+

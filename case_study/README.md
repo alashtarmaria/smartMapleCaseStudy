@@ -10,7 +10,7 @@ Bu proje, [The Dyrt](https://thedyrt.com/search) sitesinden **ABD genelindeki t�
 - ✅ **FastAPI** ile web arayüzü ve API endpoint'leri
 - ✅ **SQLAlchemy ORM** ile PostgreSQL veritabanı bağlantısı
 - ✅ **Pydantic** ile veri doğrulama (JSON → Python sınıfı)
-- ✅ **APScheduler** ile 10 dakikada bir otomatik veri çekme
+- ✅ **APScheduler** ile 2 saatte bir otomatik veri çekme
 - ✅ **Retry / Hata Yönetimi** (`tenacity`) ile sağlamlık
 - ✅ **Geopy** ile koordinatlardan şehir ve eyalet bulma
 - ✅ **Docker & Docker Compose** desteği

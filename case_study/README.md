@@ -182,7 +182,3 @@ Paketler:
 
 ---
 
-## 📬 İletişim
-
-Her türlü soru için:  
-📧 **info@smart-maple.com**
